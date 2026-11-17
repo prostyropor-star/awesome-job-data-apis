@@ -28,7 +28,7 @@ Most tech companies host their careers page on an ATS that exposes a public JSON
 | Breezy HR | `https://{slug}.breezy.hr/json` | Small and mid-size companies. |
 | Workable | `https://apply.workable.com/api/v1/widget/accounts/{slug}` | Widget feed; rate-limited, go slow. |
 
-**Finding which ATS a company uses** is the hard part. The [Company ATS Detector](https://apify.com/mistlike_potato/company-ats-detector) looks up 34,000+ companies, and a free sample is in [job-board-starter](https://github.com/prostyropor-star/job-board-starter).
+**Finding which ATS a company uses** is the hard part. The [Company ATS Detector](https://apify.com/mistlike_potato/company-ats-detector) looks up 34,000+ companies, and a free sample is in [job-board-starter](https://github.com/prostyropor-star/job-board-starter). The full list is available as a CSV/Excel dataset: [Company Careers Directory](https://prostyropor.gumroad.com/l/jxsju).
 
 ## Remote job boards
 
