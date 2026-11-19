@@ -30,7 +30,7 @@ Most tech companies host their careers page on an ATS that exposes a public JSON
 
 **Finding which ATS a company uses** is the hard part. The [Company ATS Detector](https://apify.com/mistlike_potato/company-ats-detector) looks up 34,000+ companies, and a free sample is in [job-board-starter](https://github.com/prostyropor-star/job-board-starter). The full list is available as a CSV/Excel dataset: [Company Careers Directory](https://prostyropor.gumroad.com/l/jxsju).
 
-**Using job data as sales intent:** companies hiring for a role are often buying tools for that team. [Hiring Signals Lead List](https://prostyropor.gumroad.com/l/hzgeh) has 2,386 companies hiring now for sales, DevOps/cloud, data/ML, security, marketing and recruiting roles (Excel, Nov 2026).
+**Using job data as sales intent:** companies hiring for a role are often buying tools for that team. [Hiring Signals Lead List](https://prostyropor.gumroad.com/l/hzgeh) has 2,386 companies hiring now for sales, DevOps/cloud, data/ML, security, marketing and recruiting roles (Excel, Nov 2026). Free top-company lists by role and for Germany: [Companies Hiring Now](https://prostyropor-star.github.io/companies-hiring-now/).
 
 ## Remote job boards
 
